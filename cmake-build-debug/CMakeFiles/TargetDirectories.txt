@@ -1,0 +1,3 @@
+/home/kdm1t/kursachperedel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kdm1t/kursachperedel/cmake-build-debug/CMakeFiles/kursachperedel.dir
+/home/kdm1t/kursachperedel/cmake-build-debug/CMakeFiles/edit_cache.dir

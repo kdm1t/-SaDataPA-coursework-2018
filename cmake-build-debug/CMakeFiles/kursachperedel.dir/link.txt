@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/kursachperedel.dir/main.cpp.o  -o kursachperedel 
