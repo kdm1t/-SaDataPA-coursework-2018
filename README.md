@@ -1,5 +1,6 @@
 # Data Processing Structures and Algorithms. Coursework. December, 2018.
-Kursovaya.docx include all information about this project.
+Kursovaya.docx - Information
+main.cpp - Code
 
 ## Задание
 Написать программу реализующую логическую структуру данных – стек множеств целого типа. Программа должна работать в диалоговом режиме. Каждая операция должна быть реализована в отдельной функции. Сделать отчет.
