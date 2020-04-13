@@ -1,5 +1,6 @@
 # Data Processing Structures and Algorithms. Coursework. December, 2018.
 Kursovaya.docx - Information
+
 main.cpp - Code
 
 ## Задание
